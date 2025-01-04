@@ -1,0 +1,13 @@
+streamlit
+pandas
+sqlite3
+matplotlib
+seaborn
+plotly
+scikit-learn
+requests
+pytest
+yfinance
+financialmodelingprep
+Flask (if using Flask)
+dash (if using Dash)
