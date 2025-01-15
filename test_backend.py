@@ -10,7 +10,7 @@ engine = create_engine(DATABASE_URL)
 
 
 def test_validate_username():
-    assert validate_username("user") == True
+    assert validate_username("user") == True   ### use username as JKKK & password as 123456789
     assert validate_username("abc") == False
 
 def test_validate_password():
